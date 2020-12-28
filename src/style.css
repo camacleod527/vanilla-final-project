@@ -36,3 +36,19 @@ small {
   border-radius: 10px;
   background-color: #e1c8be;
 }
+
+.weather-temperature img {
+  margin-right: 5px;
+  height: 85px;
+  width: 85px;
+}
+
+.weather-temperature strong {
+  font-size: 60px;
+  font-weight: 400;
+}
+
+.weather-temperature .units {
+  position: relative;
+  top: -34px;
+}
