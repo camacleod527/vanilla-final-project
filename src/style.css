@@ -58,3 +58,13 @@ small {
   position: relative;
   top: -32px;
 }
+
+.weather-temperature .active {
+  color: white;
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
